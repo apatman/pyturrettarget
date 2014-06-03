@@ -5,7 +5,7 @@ import numpy
 import math
 
 ####WAT BETA TESTING
-dummyz = 50 #For testing
+#dummyz = 50 #For testing
 
 
 
